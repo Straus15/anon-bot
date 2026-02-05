@@ -1,3 +1,5 @@
-import os
+
 BOT_TOKEN = "8225551217:AAH0_i6jEf2S6N2cZNzegSfmB3OyQdWI7ms"
+
 ADMIN_ID = 7597530601
+DB_PATH = 'anon_bot.db'
